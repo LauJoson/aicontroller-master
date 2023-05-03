@@ -229,14 +229,3 @@ FROG_BRAIN_DISP_WIDTH: Frog的脑图在屏幕上的显示大小,通常取值100~
 STEPS_PER_ROUND: 每轮测试步数, 每一步相当于脑思考的一桢，所有青蛙的脑神经元被遍历一次。
 FOOD_QTY：食物的数量，食物越多，则Frog的生存率就越高，能量排名靠前的一批Frog可以下蛋，其余的被淘汰。   
 ```
-  
-## 版权 | License  
-[Apache 2.0](http://www.apache.org/licenses/LICENSE-2.0)  
-
-## 期望 | Futures
-欢迎发issue、评论等方式提出建议或加入开发组。另外在other目录下也可以上传你的文章、项目链接等资源。
-
-## 关注我 | About Me
-[Gitee](https://gitee.com/drinkjava2)   
-[GitHub](https://github.com/drinkjava2)  
-微信:yong99819981(如想长期关注本项目、或参与开发，请加我并留言"人工生命群")  
