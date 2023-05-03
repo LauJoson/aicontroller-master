@@ -1,0 +1,30 @@
+/build/
+target/
+bin/
+.project
+.classpath
+.settings/
+*~
+*.orig
+*.new
+.idea/
+*.iml
+*.ipr
+test/**/build/
+examples/**/build/
+
+*.class
+*.log
+*.jar
+*.war
+*.ser
+*.ear
+*.zip
+*.tar.gz
+*.rar
+
+# frog egg file
+*.ser
+
+# virtual machine crash logs
+hs_err_pid*
